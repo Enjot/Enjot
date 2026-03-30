@@ -1,6 +1,6 @@
 # Hi there 👋
  
-### My contributions to the Android ecosystem
+### My contributions to the Android world
 
 **Reported a bug:** Google Maps Compose freezes as a top-level navigation destination with state restoration enabled  
 https://issuetracker.google.com/issues/421095241
