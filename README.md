@@ -14,5 +14,5 @@ https://github.com/googlemaps/android-maps-compose/issues/588#issuecomment-40201
 **Reported and provided a fix** for missing `equals()` and `hashCode()` in `BottomSheetScene` recipe for Navigation 3  
 https://github.com/android/nav3-recipes/issues/263
 
-**Reported a bug and provided a workaround:** Android Emulator audio severely distorted on macOS with multi-channel audio interfaces (4+ channels)  
+**Reported a bug and provided a workaround:** Android Emulator audio severely distorted on macOS with multi-channel audio interfaces
 https://issuetracker.google.com/issues/506475581
