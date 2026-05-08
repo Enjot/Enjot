@@ -2,6 +2,9 @@
 
 ### My contributions to the Android world
 
+**Helped to fix the issue:** Android Emulator audio severely distorted on macOS with multi-channel audio interfaces
+https://issuetracker.google.com/issues/506475581
+
 **Reported a bug:** Google Maps Compose freezes as a top-level navigation destination with state restoration enabled  
 https://issuetracker.google.com/issues/421095241
 
@@ -13,6 +16,3 @@ https://github.com/googlemaps/android-maps-compose/issues/588#issuecomment-40201
 
 **Reported and provided a fix** for missing `equals()` and `hashCode()` in `BottomSheetScene` recipe for Navigation 3  
 https://github.com/android/nav3-recipes/issues/263
-
-**Reported a bug and provided a workaround:** Android Emulator audio severely distorted on macOS with multi-channel audio interfaces
-https://issuetracker.google.com/issues/506475581
