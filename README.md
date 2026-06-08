@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My contributions to the Android world
 - **Android Emulator audio severely distorted on macOS with multi-channel audio interfaces**  
-  Helped fix the issue.  
+  Reported and helped fix the issue.  
   🐛 Issue: https://issuetracker.google.com/issues/506475581
 
 - **Missing `equals()` and `hashCode()` in `BottomSheetScene` recipe for Navigation 3**  
